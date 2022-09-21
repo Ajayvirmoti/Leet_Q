@@ -16,4 +16,4 @@
 - [19.  Remove Nth Node From End Of the List](#Selection-Sort)
 - [985. Sum of Even Numbers After Queries ✓](https://leetcode.com/submissions/detail/805576401/)
 >Hard
-- 
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2516024/Java-Solution-or-Using-merge-sort-or-100-faster)
