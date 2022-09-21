@@ -9,7 +9,7 @@
 - [27. Remove Element](#Selection-Sort)
 - [125. Valid Palindromw](#Selection-Sort)
 - [206. Reverse Linked List](#Selection-Sort)
-- [121. Best Time to buy and sell Stock](#Selection-Sort)
+- [121. Best Time to buy and sell Stock ✓](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/2423635/best-and-simple-solution-java)
 - [1800. Maximum Ascending Subarray Sum ✓](https://leetcode.com/problems/maximum-ascending-subarray-sum/discuss/2607387/Java-Solution)
 - 
 >Medium
