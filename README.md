@@ -10,6 +10,6 @@
 - 
 >Medium
 - [19.  Remove Nth Node From End Of the List](#Selection-Sort)
-- [985. Sum of Even Numbers After Queries ✓](#https://leetcode.com/submissions/detail/805576401/)
+- [985. Sum of Even Numbers After Queries ✓](https://leetcode.com/submissions/detail/805576401/)
 >Hard
 - 
