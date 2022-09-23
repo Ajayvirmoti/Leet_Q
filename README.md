@@ -12,7 +12,7 @@
 - [121. Best Time to buy and sell Stock ✓](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/2423635/best-and-simple-solution-java)
 - [1800. Maximum Ascending Subarray Sum ✓](https://leetcode.com/problems/maximum-ascending-subarray-sum/discuss/2607387/Java-Solution)
 - [728. Self Dividing Numbers ✓](https://leetcode.com/problems/self-dividing-numbers/)
-- [1486. XOR Operation in an Array ✓](https://leetcode.com/problems/xor-operation-in-an-array/)
+- [1486. XOR Operation in an Array ✓](https://leetcode.com/submissions/detail/807048723/)
 - [1431. Kids With the Greatest Number of Candies ✓](https://leetcode.com/submissions/detail/807064945/)
 >Medium
 - [19.  Remove Nth Node From End Of the List](#Selection-Sort)
